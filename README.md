@@ -1,2 +1,4 @@
 # MTech_Dissertation
-Binary dataset and 
+Binary dataset and sentiment analysis full dataset are single dimensional opinions
+
+Sewage line is multi dimensional opinions
